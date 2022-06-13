@@ -7,3 +7,4 @@ change2 - rel_1.0
 change3 - master
 change3 - rel_1.0
 change1 - rel_1.1
+change1 - rel_1.2
